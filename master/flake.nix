@@ -9,7 +9,7 @@
   
   inputs.src-winversion-master.flake = false;
   inputs.src-winversion-master.owner = "rockcavera";
-  inputs.src-winversion-master.ref   = "refs/heads/master";
+  inputs.src-winversion-master.ref   = "master";
   inputs.src-winversion-master.repo  = "winversion";
   inputs.src-winversion-master.type  = "github";
   
